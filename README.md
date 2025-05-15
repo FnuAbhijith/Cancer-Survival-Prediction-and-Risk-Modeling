@@ -12,6 +12,15 @@ Build an end-to-end pipeline to:
 - Predict survival duration using Cox Proportional Hazards Model.
 - Support early risk detection for oncological decision-making.
 
+## ⚙️ Tech Stack
+
+Programming Language: Python 3  
+Development Environment: Jupyter Notebook  
+Core Libraries:  
+- Pandas and NumPy for data manipulation and numerical analysis  
+- Scikit-learn for machine learning models and evaluation metrics  
+- Lifelines for survival analysis and Cox regression modeling  
+- Matplotlib and Seaborn for data visualization  
 
 
 ## 📊 Models & Techniques Used
@@ -33,6 +42,14 @@ Build an end-to-end pipeline to:
   - `Severity` (for classification)
   - `Survival_Time`, `Event_Observed` (for Cox regression)
  
+## 🧠 Skills Demonstrated
+
+- Binary Classification  
+- Survival Analysis (Cox Regression)  
+- Handling Imbalanced Medical Data  
+- Model Evaluation: ROC-AUC, Confusion Matrix, Concordance Index  
+- End-to-End Pipeline Deployment in Jupyter
+
 
 ## 📌 Results Summary
 
@@ -42,14 +59,6 @@ Build an end-to-end pipeline to:
 | Random Forest Classifier| 0.94     | 0.96    | —       |
 | Cox Proportional Hazards| —        | —       | 0.87    |
 
-
-## 🧠 Skills Demonstrated
-
-- Binary Classification  
-- Survival Analysis (Cox Regression)  
-- Handling Imbalanced Medical Data  
-- Model Evaluation: ROC-AUC, Confusion Matrix, Concordance Index  
-- End-to-End Pipeline Deployment in Jupyter  
 
 
 ## 🚀 How to Run This Project
