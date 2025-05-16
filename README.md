@@ -3,6 +3,8 @@
 
 This project predicts **cancer severity** and **patient survival probability** using machine learning classification and survival analysis. It leverages patient data from global cancer records between 2015–2024.
 
+![Cancer-Survival-Prediction-and-Risk-Modeling](https://github.com/user-attachments/assets/c78e258a-ba58-456b-8bda-81f91bf823e1)
+
 
 ## 🎯 Objective
 
